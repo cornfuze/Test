@@ -51,7 +51,7 @@ const DailySales = () => {
                       <td className="text-center">{item.quantity}</td>
                       <td className="text-center">$ {item.price}</td>
                       <td className="text-center">
-                        ${' '}
+                        Rp{' '}
                         {item['total-price'] ? item['total-price'] : item.price}
                       </td>
                     </tr>
@@ -64,7 +64,7 @@ const DailySales = () => {
                   <td />
                   <td />
                   <td className="font-semibold text-center">
-                    $ {dailyObj.paid}
+                    Rp {dailyObj.paid}
                   </td>
                 </tr>
                 <tr className="border border-black">
@@ -72,7 +72,7 @@ const DailySales = () => {
                   <td />
                   <td />
                   <td className="font-semibold text-center">
-                    $ {dailyObj.change}
+                    Rp {dailyObj.change}
                   </td>
                 </tr>
               </tfoot>

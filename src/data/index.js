@@ -6,7 +6,7 @@ export default [
     filename: '0.jpg',
     height: 600,
     width: 400,
-    price: 15000,
+    price: 1500,
     rating: 4,
   },
   {
