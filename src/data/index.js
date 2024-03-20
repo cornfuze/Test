@@ -1,22 +1,22 @@
 export default [
   {
-    title: 'Telur Ayam Kampung',
+    title: 'Brown eggs',
     type: 'dairy',
     description: 'Raw organic brown eggs in a basket',
     filename: '0.jpg',
     height: 600,
     width: 400,
-    price: 15000,
+    price: 28.1,
     rating: 4,
   },
   {
-    title: 'Strawberry Segar',
+    title: 'Sweet fresh stawberry',
     type: 'fruit',
     description: 'Sweet fresh stawberry on the wooden table',
     filename: '1.jpg',
     height: 450,
     width: 299,
-    price: 15000,
+    price: 29.45,
     rating: 4,
   },
   {
@@ -26,7 +26,7 @@ export default [
     filename: '2.jpg',
     height: 450,
     width: 299,
-    price: 15000,
+    price: 18.95,
     rating: 3,
   },
   {
