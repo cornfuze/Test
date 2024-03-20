@@ -6,7 +6,7 @@ export default [
     filename: '0.jpg',
     height: 600,
     width: 400,
-    price: 1500,
+    price: 15000.00,
     rating: 4,
   },
   {
@@ -16,7 +16,7 @@ export default [
     filename: '1.jpg',
     height: 450,
     width: 299,
-    price: 20000,
+    price: 20000.00,
     rating: 4,
   },
   {
@@ -26,7 +26,7 @@ export default [
     filename: '2.jpg',
     height: 450,
     width: 299,
-    price: 10000,
+    price: 10000.00,
     rating: 3,
   },
   {
@@ -37,7 +37,7 @@ export default [
     filename: '3.jpg',
     height: 600,
     width: 399,
-    price: 15000,
+    price: 15000.00,
     rating: 4,
   },
   {
@@ -47,7 +47,7 @@ export default [
     filename: '4.jpg',
     height: 450,
     width: 299,
-    price: 10000,
+    price: 10000.00,
     rating: 2,
   },
   {
@@ -58,7 +58,7 @@ export default [
     filename: '5.jpg',
     height: 450,
     width: 675,
-    price: 6000,
+    price: 6000.00,
     rating: 4,
   },
   {
@@ -68,7 +68,7 @@ export default [
     filename: '6.jpg',
     height: 450,
     width: 299,
-    price: 5000,
+    price: 5000.00,
     rating: 2,
   },
   {
@@ -79,7 +79,7 @@ export default [
     filename: '7.jpg',
     height: 450,
     width: 301,
-    price: 17000,
+    price: 17000.00,
     rating: 0,
   },
   {
@@ -89,7 +89,7 @@ export default [
     filename: '8.jpg',
     height: 600,
     width: 399,
-    price: 10000,
+    price: 10000.00,
     rating: 4,
   },
   {
@@ -99,7 +99,7 @@ export default [
     filename: '9.jpg',
     height: 450,
     width: 299,
-    price: 8000,
+    price: 8000.00,
     rating: 5,
   },
   {
@@ -109,7 +109,7 @@ export default [
     filename: '10.jpg',
     height: 450,
     width: 301,
-    price: 15000,
+    price: 15000.00,
     rating: 3,
   },
   {
@@ -119,7 +119,7 @@ export default [
     filename: '11.jpg',
     height: 600,
     width: 399,
-    price: 10000,
+    price: 10000.00,
     rating: 0,
   },
   {
@@ -129,7 +129,7 @@ export default [
     filename: '12.jpg',
     height: 600,
     width: 903,
-    price: 10000,
+    price: 10000.00,
     rating: 2,
   },
   {
@@ -140,7 +140,7 @@ export default [
     filename: '13.jpg',
     height: 450,
     width: 350,
-    price: 20000,
+    price: 20000.00,
     rating: 2,
   },
   {
@@ -150,7 +150,7 @@ export default [
     filename: '14.jpg',
     height: 450,
     width: 300,
-    price: 10000,
+    price: 10000.00,
     rating: 1,
   },
   {
@@ -161,7 +161,7 @@ export default [
     filename: '15.jpg',
     height: 600,
     width: 400,
-    price: 15000,
+    price: 15000.00,
     rating: 1,
   },
   {
@@ -171,7 +171,7 @@ export default [
     filename: '16.jpg',
     height: 400,
     width: 600,
-    price: 20000,
+    price: 20000.00,
     rating: 1,
   },
   {
@@ -181,7 +181,7 @@ export default [
     filename: '17.jpg',
     height: 600,
     width: 398,
-    price: 10000,
+    price: 10000.00,
     rating: 4,
   },
   {
@@ -191,7 +191,7 @@ export default [
     filename: '18.jpg',
     height: 600,
     width: 398,
-    price: 20000,
+    price: 20000.00,
     rating: 5,
   },
   {
@@ -202,7 +202,7 @@ export default [
     filename: '19.jpg',
     height: 400,
     width: 600,
-    price: 15000,
+    price: 15000.00,
     rating: 5,
   },
   {
@@ -213,7 +213,7 @@ export default [
     filename: '20.jpg',
     height: 450,
     width: 274,
-    price: 10000,
+    price: 10000.00,
     rating: 4,
   },
   {
@@ -223,7 +223,7 @@ export default [
     filename: '21.jpg',
     height: 450,
     width: 299,
-    price: 25000,
+    price: 25000.00,
     rating: 4,
   },
   {
@@ -233,7 +233,7 @@ export default [
     filename: '22.jpg',
     height: 450,
     width: 299,
-    price: 20000,
+    price: 20000.00,
     rating: 2,
   },
   {
@@ -243,7 +243,7 @@ export default [
     filename: '23.jpg',
     height: 450,
     width: 299,
-    price: 10000,
+    price: 10000.00,
     rating: 2,
   },
   {
@@ -253,7 +253,7 @@ export default [
     filename: '24.jpg',
     height: 600,
     width: 398,
-    price: 15000,
+    price: 15000.00,
     rating: 1,
   },
   {
@@ -264,7 +264,7 @@ export default [
     filename: '25.jpg',
     height: 600,
     width: 400,
-    price: 20000,
+    price: 20000.00,
     rating: 2,
   },
   {
@@ -274,7 +274,7 @@ export default [
     filename: '26.jpg',
     height: 450,
     width: 299,
-    price: 10000,
+    price: 10000.00,
     rating: 4,
   },
   {
@@ -284,7 +284,7 @@ export default [
     filename: '27.jpg',
     height: 600,
     width: 398,
-    price: 20000,
+    price: 20000.00,
     rating: 5,
   },
   {
@@ -295,7 +295,7 @@ export default [
     filename: '28.jpg',
     height: 450,
     width: 300,
-    price: 15000,
+    price: 15000.00,
     rating: 4,
   },
   {
@@ -306,7 +306,7 @@ export default [
     filename: '29.jpg',
     height: 450,
     width: 300,
-    price: 15000,
+    price: 15000.00,
     rating: 3,
   },
   {
@@ -317,7 +317,7 @@ export default [
     filename: '30.jpg',
     height: 600,
     width: 900,
-    price: 25000,
+    price: 25000.00,
     rating: 5,
   },
   {
@@ -327,7 +327,7 @@ export default [
     filename: '31.jpg',
     height: 450,
     width: 299,
-    price: 20.000,
+    price: 20000.00,
     rating: 4,
   },
   {
@@ -337,7 +337,7 @@ export default [
     filename: '32.jpg',
     height: 600,
     width: 398,
-    price: 10000,
+    price: 10000.00,
     rating: 5,
   },
   {
@@ -347,7 +347,7 @@ export default [
     filename: '33.jpg',
     height: 600,
     width: 400,
-    price: 15000,
+    price: 15000.00,
     rating: 5,
   },
   {
@@ -357,7 +357,7 @@ export default [
     filename: '34.jpg',
     height: 600,
     width: 400,
-    price: 10000,
+    price: 10000.00,
     rating: 4,
   },
   {
@@ -367,7 +367,7 @@ export default [
     filename: '35.jpg',
     height: 450,
     width: 300,
-    price: 10000,
+    price: 10000.00,
     rating: 2,
   },
   {
@@ -377,7 +377,7 @@ export default [
     filename: '36.jpg',
     height: 600,
     width: 398,
-    price: 10000,
+    price: 10000.00,
     rating: 5,
   },
   {
@@ -388,7 +388,7 @@ export default [
     filename: '37.jpg',
     height: 450,
     width: 321,
-    price: 10000,
+    price: 10000.00,
     rating: 4,
   },
   {
@@ -399,7 +399,7 @@ export default [
     filename: '38.jpg',
     height: 450,
     width: 450,
-    price: 10000,
+    price: 10000.00,
     rating: 0,
   },
   {
@@ -410,7 +410,7 @@ export default [
     filename: '39.jpg',
     height: 450,
     width: 565,
-    price: 10000,
+    price: 10000.00,
     rating: 1,
   },
   {
@@ -421,7 +421,7 @@ export default [
     filename: '40.jpg',
     height: 450,
     width: 307,
-    price: 10000,
+    price: 10000.00,
     rating: 0,
   },
   {
@@ -432,7 +432,7 @@ export default [
     filename: '41.jpg',
     height: 600,
     width: 900,
-    price: 10000,
+    price: 10000.00,
     rating: 2,
   },
   {
@@ -442,7 +442,7 @@ export default [
     filename: '42.jpg',
     height: 450,
     width: 299,
-    price: 10000,
+    price: 10000.00,
     rating: 1,
   },
   {
@@ -452,7 +452,7 @@ export default [
     filename: '43.jpg',
     height: 600,
     width: 400,
-    price: 20000,
+    price: 20000.00,
     rating: 3,
   },
   {
@@ -463,7 +463,7 @@ export default [
     filename: '44.jpg',
     height: 450,
     width: 352,
-    price: 10000,
+    price: 10000.00,
     rating: 3,
   },
   {
@@ -474,7 +474,7 @@ export default [
     filename: '45.jpg',
     height: 450,
     width: 675,
-    price: 15000,
+    price: 15000.00,
     rating: 5,
   },
   {
@@ -484,7 +484,7 @@ export default [
     filename: '46.jpg',
     height: 450,
     width: 675,
-    price: 10000,
+    price: 10000.00,
     rating: 4,
   },
   {
@@ -494,7 +494,7 @@ export default [
     filename: '47.jpg',
     height: 450,
     width: 678,
-    price: 10000,
+    price: 10000.00,
     rating: 4,
   },
   {
@@ -504,7 +504,7 @@ export default [
     filename: '48.jpg',
     height: 600,
     width: 401,
-    price: 25000,
+    price: 25000.00,
     rating: 1,
   },
   {
@@ -515,7 +515,7 @@ export default [
     filename: '49.jpg',
     height: 600,
     width: 400,
-    price: 20000,
+    price: 20000.00,
     rating: 3,
   },
 ];
