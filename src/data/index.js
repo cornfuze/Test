@@ -6,7 +6,7 @@ export default [
     filename: '0.jpg',
     height: 600,
     width: 400,
-    price: 28.1,
+    price: 15000,
     rating: 4,
   },
   {
@@ -16,7 +16,7 @@ export default [
     filename: '1.jpg',
     height: 450,
     width: 299,
-    price: 29.45,
+    price: 15000,
     rating: 4,
   },
   {
@@ -26,7 +26,7 @@ export default [
     filename: '2.jpg',
     height: 450,
     width: 299,
-    price: 18.95,
+    price: 15000,
     rating: 3,
   },
   {

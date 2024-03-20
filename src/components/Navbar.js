@@ -12,7 +12,7 @@ const Navbar = () => {
     <header className="bg-gray-900 sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-1">
       <div className="flex items-center justify-between px-4 py-1 sm:p-0">
         <Link className="text-2xl text-gray-500 hover:text-white" to="/">
-          RecieptApp
+          Aplikasi Kasir
         </Link>
         <div className="sm:hidden">
           <button
@@ -39,13 +39,7 @@ const Navbar = () => {
           to="/"
           className="block px-2 py-1 font-semibold text-white rounded hover:bg-gray-800"
         >
-          Settings
-        </Link>
-        <Link
-          to="/"
-          className="block px-2 py-1 my-1 font-semibold text-white rounded hover:bg-gray-800 sm:m-0"
-        >
-          Sign Out
+          Home
         </Link>
       </div>
     </header>
