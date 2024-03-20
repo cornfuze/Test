@@ -85,16 +85,16 @@ const CheckoutBill = ({ state, navigate }) => {
         </div>
         <div className="w-9/12 text-xl">
           <div className="flex justify-between text-white">
-            <div>Tagihan</div>
-            <div>Rp {state.totalPrice}</div>
+            <div>Bill</div>
+            <div>$ {state.totalPrice}</div>
           </div>
           <div className="flex justify-between text-white">
-            <div>Dibayar</div>
-            <div>Rp {paid}</div>
+            <div>Paid</div>
+            <div>$ {paid}</div>
           </div>
           <div className="flex justify-between text-white">
-            <div>Kembalian</div>
-            <div>Rp {change}</div>
+            <div>Change</div>
+            <div>$ {change}</div>
           </div>
         </div>
         <div className="mt-5 border-2 rounded">
@@ -195,10 +195,10 @@ const CheckoutBill = ({ state, navigate }) => {
             <button
               type="button"
               className="w-20 h-16 bg-gray-400 border hover:bg-white focus:outline-none"
-              value="000"
+              value="00"
               onClick={handlePaid}
             >
-              000
+              00
             </button>
             <button
               type="button"

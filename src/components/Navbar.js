@@ -39,7 +39,7 @@ const Navbar = () => {
           to="/"
           className="block px-2 py-1 font-semibold text-white rounded hover:bg-gray-800"
         >
-          Beranda
+          Settings
         </Link>
         <Link
           to="/"

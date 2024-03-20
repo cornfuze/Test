@@ -29,10 +29,10 @@ const CheckoutDetail = ({ state }) => {
             <div className="w-1/5">{item.title}</div>
             <div className="w-1/5">{item.type}</div>
             <div className="w-1/5">{item.description}</div>
-            <div className="w-1/5 text-center">Rp {item.price}</div>
+            <div className="w-1/5 text-center">$ {item.price}</div>
             <div className="w-1/5 text-center">{item.quantity}</div>
             <div className="w-1/5 text-center">
-              Rp {item['total-price'] ? item['total-price'] : item.price}
+              $ {item['total-price'] ? item['total-price'] : item.price}
             </div>
           </div>
         </div>
@@ -46,7 +46,7 @@ const CheckoutDetail = ({ state }) => {
           <div className="w-1/5 text-center" />
           <div className="w-1/5 font-semibold text-center">{totalQty}</div>
           <div className="w-1/5 text-center font-semibold">
-            Rp {state.totalPrice}
+            $ {state.totalPrice}
           </div>
         </div>
       </div>

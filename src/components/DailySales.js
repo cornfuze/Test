@@ -39,7 +39,7 @@ const DailySales = () => {
                 <tr className="border border-black">
                   <th className="w-1/2 pl-5 text-left">Name</th>
                   <th>Qty</th>
-                  <th>Harga</th>
+                  <th>Price</th>
                   <th>Total</th>
                 </tr>
               </thead>
@@ -49,9 +49,9 @@ const DailySales = () => {
                     <tr key={item.title}>
                       <td className="pl-5">{item.title}</td>
                       <td className="text-center">{item.quantity}</td>
-                      <td className="text-center">Rp {item.price}</td>
+                      <td className="text-center">$ {item.price}</td>
                       <td className="text-center">
-                        Rp{' '}
+                        ${' '}
                         {item['total-price'] ? item['total-price'] : item.price}
                       </td>
                     </tr>
@@ -60,19 +60,19 @@ const DailySales = () => {
               </tbody>
               <tfoot>
                 <tr className="border border-black">
-                  <td className="pl-12 font-semibold">Dibayar</td>
+                  <td className="pl-12 font-semibold">Paid</td>
                   <td />
                   <td />
                   <td className="font-semibold text-center">
-                    Rp {dailyObj.paid}
+                    $ {dailyObj.paid}
                   </td>
                 </tr>
                 <tr className="border border-black">
-                  <td className="pl-12 font-semibold">Kembalian</td>
+                  <td className="pl-12 font-semibold">Change</td>
                   <td />
                   <td />
                   <td className="font-semibold text-center">
-                    Rp {dailyObj.change}
+                    $ {dailyObj.change}
                   </td>
                 </tr>
               </tfoot>

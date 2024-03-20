@@ -23,16 +23,16 @@ const Modal = ({ open, setOpen, bill, paid, change, handleConfirm }) => {
           </div>
           <div className="p-4 bg-white">
             <div className="flex justify-between">
-              <div>Tagihan</div>
-              <div>Rp {bill}</div>
+              <div>Bill</div>
+              <div>$ {bill}</div>
             </div>
             <div className="flex justify-between">
-              <div>Dibayar</div>
-              <div>Rp {paid}</div>
+              <div>Paid</div>
+              <div>$ {paid}</div>
             </div>
             <div className="flex justify-between">
-              <div>Kembalian</div>
-              <div>Rp {change}</div>
+              <div>Change</div>
+              <div>$ {change}</div>
             </div>
             <div className="flex justify-around mt-5">
               <button
@@ -40,14 +40,14 @@ const Modal = ({ open, setOpen, bill, paid, change, handleConfirm }) => {
                 className="p-3 text-white bg-red-400 rounded hover:bg-red-600"
                 onClick={handleOpen}
               >
-                Batal
+                Cancel
               </button>
               <button
                 type="button"
                 className="p-3 bg-green-400 rounded hover:bg-green-600 text-white"
                 onClick={handleConfirm}
               >
-                Proses
+                Proccess
               </button>
             </div>
           </div>
