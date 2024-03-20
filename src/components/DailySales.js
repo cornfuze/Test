@@ -39,7 +39,7 @@ const DailySales = () => {
                 <tr className="border border-black">
                   <th className="w-1/2 pl-5 text-left">Name</th>
                   <th>Qty</th>
-                  <th>Price</th>
+                  <th>Harga</th>
                   <th>Total</th>
                 </tr>
               </thead>
@@ -60,7 +60,7 @@ const DailySales = () => {
               </tbody>
               <tfoot>
                 <tr className="border border-black">
-                  <td className="pl-12 font-semibold">Paid</td>
+                  <td className="pl-12 font-semibold">Dibayar</td>
                   <td />
                   <td />
                   <td className="font-semibold text-center">
@@ -68,7 +68,7 @@ const DailySales = () => {
                   </td>
                 </tr>
                 <tr className="border border-black">
-                  <td className="pl-12 font-semibold">Change</td>
+                  <td className="pl-12 font-semibold">Kembalian</td>
                   <td />
                   <td />
                   <td className="font-semibold text-center">
