@@ -49,7 +49,7 @@ const Item = () => {
               onClick={() => handleProduct(items)}
             >
               {items.title}
-              <span className="block">${items.price}</span>
+              <span className="block">Rp{items.price}</span>
             </button>
           ))
         )}

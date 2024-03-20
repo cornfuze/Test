@@ -97,9 +97,9 @@ const Detail = () => {
                   +
                 </button>
               </div>
-              <div className="w-1/5 text-center">${data.price}</div>
+              <div className="w-1/5 text-center">Rp{data.price}</div>
               <div className="w-1/5 text-center">
-                ${data['total-price'] ? data['total-price'] : data.price}
+                Rp{data['total-price'] ? data['total-price'] : data.price}
               </div>
             </div>
           ))}
@@ -112,7 +112,7 @@ const Detail = () => {
             Sub Total
           </div>
           <div className="w-1/5 text-xs font-semibold sm:text-base">
-            ${totalPrice}
+            Rp{totalPrice}
           </div>
         </div>
         <div className="flex mt-2">

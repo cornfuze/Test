@@ -49,7 +49,7 @@ const DailySales = () => {
                     <tr key={item.title}>
                       <td className="pl-5">{item.title}</td>
                       <td className="text-center">{item.quantity}</td>
-                      <td className="text-center">$ {item.price}</td>
+                      <td className="text-center">Rp {item.price}</td>
                       <td className="text-center">
                         Rp{' '}
                         {item['total-price'] ? item['total-price'] : item.price}
