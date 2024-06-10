@@ -1,6 +1,6 @@
 export default [
   {
-    title: 'Telur',
+    title: 'Brown eggs',
     type: 'dairy',
     description: 'Raw organic brown eggs in a basket',
     filename: '0.jpg',
@@ -10,7 +10,7 @@ export default [
     rating: 4,
   },
   {
-    title: 'Strawberry',
+    title: 'Sweet fresh stawberry',
     type: 'fruit',
     description: 'Sweet fresh stawberry on the wooden table',
     filename: '1.jpg',
@@ -30,7 +30,7 @@ export default [
     rating: 3,
   },
   {
-    title: 'Es Susu Matcha',
+    title: 'Green smoothie',
     type: 'dairy',
     description:
       "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
@@ -41,7 +41,7 @@ export default [
     rating: 4,
   },
   {
-    title: 'Kacang Polong',
+    title: 'Raw legums',
     type: 'vegetable',
     description: 'Raw legums on the wooden table',
     filename: '4.jpg',
@@ -51,7 +51,7 @@ export default [
     rating: 2,
   },
   {
-    title: 'Bubuk Pengembang Kue',
+    title: 'Baking cake',
     type: 'dairy',
     description:
       'Baking cake in rural kitchen - dough  recipe ingredients (eggs, flour, sugar) on vintage wooden table from above.',
@@ -62,7 +62,7 @@ export default [
     rating: 4,
   },
   {
-    title: 'Saus Pesto',
+    title: 'Pesto with basil',
     type: 'vegetable',
     description: 'Italian traditional pesto with basil, chesse and oil',
     filename: '6.jpg',
@@ -72,7 +72,7 @@ export default [
     rating: 2,
   },
   {
-    title: 'Kacang Hazelnut',
+    title: 'Hazelnut in black ceramic bowl',
     type: 'vegetable',
     description:
       'Hazelnut in black ceramic bowl on old wooden background. forest wealth. rustic style. selective focus',
@@ -83,7 +83,7 @@ export default [
     rating: 0,
   },
   {
-    title: 'Stawberry',
+    title: 'Fresh stawberry',
     type: 'fruit',
     description: 'Sweet fresh stawberry on the wooden table',
     filename: '8.jpg',
@@ -93,7 +93,7 @@ export default [
     rating: 4,
   },
   {
-    title: 'Lemon',
+    title: 'Lemon and salt',
     type: 'fruit',
     description: 'Rosemary, lemon and salt on the table',
     filename: '9.jpg',
@@ -103,7 +103,7 @@ export default [
     rating: 5,
   },
   {
-    title: 'Roti Homemade',
+    title: 'Homemade bread',
     type: 'bakery',
     description: 'Homemade bread',
     filename: '10.jpg',
@@ -113,7 +113,7 @@ export default [
     rating: 3,
   },
   {
-    title: 'Kacang Polong',
+    title: 'Legums',
     type: 'vegetable',
     description: 'Cooked legums on the wooden table',
     filename: '11.jpg',
@@ -123,7 +123,7 @@ export default [
     rating: 0,
   },
   {
-    title: 'Tomat',
+    title: 'Fresh tomato',
     type: 'vegetable',
     description: 'Fresh tomato juice with basil',
     filename: '12.jpg',
@@ -133,7 +133,7 @@ export default [
     rating: 2,
   },
   {
-    title: 'Paket Sarapan Sehat',
+    title: 'Healthy breakfast',
     type: 'fruit',
     description:
       'Healthy breakfast set. rice cereal or porridge with berries and honey over rustic wood background',
@@ -144,7 +144,7 @@ export default [
     rating: 2,
   },
   {
-    title: 'Kacang Hijau',
+    title: 'Green beans',
     type: 'vegetable',
     description: 'Raw organic green beans ready to eat',
     filename: '14.jpg',
@@ -154,7 +154,7 @@ export default [
     rating: 1,
   },
   {
-    title: 'Roti Portabello',
+    title: 'Baked stuffed portabello mushrooms',
     type: 'bakery',
     description:
       'Homemade baked stuffed portabello mushrooms with spinach and cheese',
@@ -165,7 +165,7 @@ export default [
     rating: 1,
   },
   {
-    title: 'Selai Stroberi',
+    title: 'Strawberry jelly',
     type: 'fruit',
     description: 'Homemade organic strawberry jelly in a jar',
     filename: '16.jpg',
@@ -175,7 +175,7 @@ export default [
     rating: 1,
   },
   {
-    title: 'Jus Pir',
+    title: 'Pears juice',
     type: 'fruit',
     description: 'Fresh pears juice on the wooden table',
     filename: '17.jpg',
@@ -185,7 +185,7 @@ export default [
     rating: 4,
   },
   {
-    title: 'Pir',
+    title: 'Fresh pears',
     type: 'fruit',
     description: 'Sweet fresh pears on the wooden table',
     filename: '18.jpg',
@@ -195,7 +195,7 @@ export default [
     rating: 5,
   },
   {
-    title: 'Salad Caprese',
+    title: 'Caprese salad',
     type: 'vegetable',
     description:
       'Homemade healthy caprese salad with tomato mozzarella and basil',
@@ -206,7 +206,7 @@ export default [
     rating: 5,
   },
   {
-    title: 'Jeruk',
+    title: 'Oranges',
     type: 'fruit',
     description:
       'Orange popsicle ice cream bars made from fresh oranges.  a refreshing summer treat.',
@@ -217,7 +217,7 @@ export default [
     rating: 4,
   },
   {
-    title: 'Set Sarapan Vegan',
+    title: 'Vegan food',
     type: 'vegetable',
     description: 'Concept of vegan food',
     filename: '21.jpg',
@@ -227,7 +227,7 @@ export default [
     rating: 4,
   },
   {
-    title: 'Set Sarapan Muesli',
+    title: 'Breakfast with muesli',
     type: 'dairy',
     description: 'Concept of healthy breakfast with muesli',
     filename: '22.jpg',
@@ -237,7 +237,7 @@ export default [
     rating: 2,
   },
   {
-    title: 'Madu',
+    title: 'Honey',
     type: 'bakery',
     description: 'Honey and honeycell on the table',
     filename: '23.jpg',
@@ -247,7 +247,7 @@ export default [
     rating: 2,
   },
   {
-    title: 'Set Sarapan Stroberi dan Keju',
+    title: 'Breakfast with cottage',
     type: 'fruit',
     description: 'Healthy breakfast with cottage cheese and strawberry',
     filename: '24.jpg',
@@ -257,7 +257,7 @@ export default [
     rating: 1,
   },
   {
-    title: 'Storberi Smoothie',
+    title: 'Strawberry smoothie',
     type: 'fruit',
     description:
       'Glass of red strawberry smoothie with chia seeds, served with retro cocktail tube, fresh mint and strawberries over dark background',
@@ -268,7 +268,7 @@ export default [
     rating: 2,
   },
   {
-    title: 'Saus Stroberi',
+    title: 'Strawberry and mint',
     type: 'fruit',
     description: 'Homemade muesli with strawberry and mint',
     filename: '26.jpg',
@@ -288,7 +288,7 @@ export default [
     rating: 5,
   },
   {
-    title: 'Roti Cuban',
+    title: 'Cuban sandwiche',
     type: 'bakery',
     description:
       'Homemade traditional cuban sandwiches with ham pork and cheese',
@@ -351,7 +351,7 @@ export default [
     rating: 5,
   },
   {
-    title: 'Asparagus',
+    title: 'Raw asparagus',
     type: 'vegetable',
     description: 'Raw fresh asparagus salad with cheese and dressing',
     filename: '34.jpg',
@@ -361,7 +361,7 @@ export default [
     rating: 4,
   },
   {
-    title: 'Jagung',
+    title: 'Corn',
     type: 'vegetable',
     description: 'Grilled corn on the cob with salt and butter',
     filename: '35.jpg',
@@ -371,7 +371,7 @@ export default [
     rating: 2,
   },
   {
-    title: 'Set Sarapan Vegan',
+    title: 'Vegan',
     type: 'vegan',
     description: 'Concept of healthy vegan eating',
     filename: '36.jpg',
@@ -381,7 +381,7 @@ export default [
     rating: 5,
   },
   {
-    title: 'Bluberi Crumble',
+    title: 'Fresh blueberries',
     type: 'fruit',
     description:
       'Healthy breakfast. berry crumble with fresh blueberries, raspberries, strawberries, almond, walnuts, pecans, yogurt, and mint in ceramic plates over white wooden surface, top view',
@@ -392,7 +392,7 @@ export default [
     rating: 4,
   },
   {
-    title: 'Avocado sandwich',
+    title: 'Smashed avocado',
     type: 'fruit',
     description:
       'Vegan sandwiches with smashed avocado, tomatoes and radish. top view',
@@ -425,7 +425,7 @@ export default [
     rating: 0,
   },
   {
-    title: 'Potongan Lemon',
+    title: 'Sliced lemons',
     type: 'fruit',
     description:
       'Heap of whole and sliced lemons and limes with mint in vintage metal grid box over old wooden table with turquoise wooden background. dark rustic style.',
@@ -436,7 +436,7 @@ export default [
     rating: 2,
   },
   {
-    title: 'Plum',
+    title: 'Plums',
     type: 'fruit',
     description: 'Yellow and red sweet plums',
     filename: '42.jpg',
@@ -456,7 +456,7 @@ export default [
     rating: 3,
   },
   {
-    title: 'Stroberi',
+    title: 'Strawberries',
     type: 'fruit',
     description:
       'Healthy breakfast set. rice cereal or porridge with fresh strawberry, apricots, almond and honey over white rustic wood backdrop, top view, \u0000',
@@ -467,7 +467,7 @@ export default [
     rating: 3,
   },
   {
-    title: 'Daging Burger Segar',
+    title: 'Ground beef meat burger',
     type: 'meat',
     description:
       'Raw ground beef meat burger steak cutlets with seasoning on vintage wooden boards, black background',
@@ -478,7 +478,7 @@ export default [
     rating: 5,
   },
   {
-    title: 'Tomat',
+    title: 'Tomatoes',
     type: 'fruit',
     description: 'Organic tomatoes made with love',
     filename: '46.jpg',
@@ -488,7 +488,7 @@ export default [
     rating: 4,
   },
   {
-    title: 'Selasih',
+    title: 'Basil',
     type: 'vegetable',
     description: 'Concept of vegan food with basil',
     filename: '47.jpg',
@@ -498,7 +498,7 @@ export default [
     rating: 4,
   },
   {
-    title: 'Keranjang Buah',
+    title: 'Fruits bouquet',
     type: 'fruit',
     description: 'Abstract citrus fruits bouquet on blue background',
     filename: '48.jpg',
@@ -508,7 +508,7 @@ export default [
     rating: 1,
   },
   {
-    title: 'Keranjang Pir',
+    title: 'Peaches on branch',
     type: 'fruit',
     description:
       'Peaches on branch with leaves and glasses with peach juice and limonade with ice cubes in aluminum tray over old metal table. dark rustic style. top view.',
