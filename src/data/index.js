@@ -1,6 +1,6 @@
 export default [
   {
-    title: 'Brown eggs',
+    title: 'Telur',
     type: 'dairy',
     description: 'Raw organic brown eggs in a basket',
     filename: '0.jpg',
@@ -10,7 +10,7 @@ export default [
     rating: 4,
   },
   {
-    title: 'Sweet fresh stawberry',
+    title: 'Strawberry',
     type: 'fruit',
     description: 'Sweet fresh stawberry on the wooden table',
     filename: '1.jpg',
@@ -30,7 +30,7 @@ export default [
     rating: 3,
   },
   {
-    title: 'Green smoothie',
+    title: 'Es Susu Matcha',
     type: 'dairy',
     description:
       "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
